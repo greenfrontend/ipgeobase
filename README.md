@@ -22,6 +22,8 @@ Or install it yourself as:
 
 ## Usage
 
+create `main.rb` with content:
+
 ```ruby
 require "ipgeobase"
 
@@ -32,4 +34,10 @@ puts ip_meta.country # "United States"
 puts ip_meta.countryCode # "US"
 puts ip_meta.lat # "39.03"
 puts ip_meta.lon # "-77.5"
+```
+
+then run it using bundle:
+
+```ruby
+bundle exec ruby main.rb
 ```
