@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = "Wrapper around IPGeoBase"
   spec.description   = "Get information using IP: country, city, timezone, coords"
   spec.homepage      = "https://github.com/greenfrontend/ipgeobase"
-  spec.required_ruby_version = ">= 2.4.0"
+  spec.required_ruby_version = ">= 3.0.1"
 
   spec.metadata["allowed_push_host"] = "https://mygemserver.com"
 
