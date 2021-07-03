@@ -3,6 +3,7 @@
 require_relative "ipgeobase/version"
 require "addressable/template"
 require "happymapper"
+require "net/http"
 
 module Ipgeobase
   class Error < StandardError; end
