@@ -1,3 +1,5 @@
+[![Ruby](https://github.com/greenfrontend/ipgeobase/actions/workflows/main.yml/badge.svg)](https://github.com/greenfrontend/ipgeobase/actions/workflows/main.yml)
+
 # Ipgeobase
 
 Wrapper around https://ip-api.com/
