@@ -27,11 +27,7 @@ ip_meta = Ipgeobase.lookup('8.8.8.8')
 
 puts ip_meta.city # "Ashburn"
 puts ip_meta.country # "United States"
-ip_meta.countryCode # "US"
-ip_meta.lat # "39.03"
-ip_meta.lon # "-77.5"
+puts ip_meta.countryCode # "US"
+puts ip_meta.lat # "39.03"
+puts ip_meta.lon # "-77.5"
 ```
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ipgeobase.

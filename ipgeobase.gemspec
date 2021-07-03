@@ -10,14 +10,14 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Wrapper around IPGeoBase"
   spec.description   = "Get information using IP: country, city, timezone, coords"
-  spec.homepage      = "https://rubygems.org/"
+  spec.homepage      = "https://github.com/greenfrontend/ipgeobase"
   spec.required_ruby_version = ">= 2.4.0"
 
   spec.metadata["allowed_push_host"] = "https://mygemserver.com"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://rubygems.org/"
-  spec.metadata["changelog_uri"] = "https://rubygems.org/"
+  spec.metadata["source_code_uri"] = "https://github.com/greenfrontend/ipgeobase"
+  spec.metadata["changelog_uri"] = "https://github.com/greenfrontend/ipgeobase"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
